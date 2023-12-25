@@ -26,7 +26,7 @@
         "tab2": {
           "layout": 1,
           "buttontext":  "<RichColor Color=\"1,0,1,1\">Donator Shop</>",
-          "title1": "¡THANKS FOR DONATE!",
+          "title1": "<RichColor Color="1,0,0,1">T</><RichColor Color="0.75,0.25,0,1">H</><RichColor Color="0.5,0.5,0,1">A</><RichColor Color="0.25,0.75,0,1">N</><RichColor Color="0,1,0,1">K</> <RichColor Color="0,0.75,0.25,1">S</><RichColor Color="0,0.5,0.5,1"> S</><RichColor Color="0,0.25,0.75,1">O </> <RichColor Color="0,0,1,1">M</><RichColor Color="0.25,0,0.75,1">U</><RichColor Color="0.5,0,0.5,1">C</><RichColor Color="0.75,0,0.25,1">H</><RichColor Color="1,0,0,1">FOR</><RichColor Color="0.75,0.25,0,1">o</><RichColor Color="0.5,0.5,0,1">HELP</>",
           "text1": "<RichColor Color=\"0,1,0,1\">-Vip 5€</>\n\n"<RichColor Color=\"0,1,0,1\">-SuperVip 10€</>\n\n"<RichColor Color=\"0,1,0,1\">-MegaVip 15€</>\n\n"<RichColor Color=\"0,1,0,1\">-OmegaVip 20€</>\n\n\n\n<RichColor Color=\"0,1,0,1\">Pack</>",
           "imageurl": "https://imgur.com/9K5y53E.png"
         }
