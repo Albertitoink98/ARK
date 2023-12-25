@@ -27,7 +27,7 @@
           "layout": 1,
           "buttontext":  "<RichColor Color=\"1,0,1,1\">Donator Shop</>",
           "title1": "¡THANKS FOR DONATE!",
-          "text1": "<RichColor Color=\"0,1,0,1\">-Vip 5€\n\n-SuperVip 10€\n\n-MegaVip 15€\n\n-OmegaVip 20€</>\n\n\n\n<RichColor Color=\"0,1,0,1\">Pack</>",
+          "text1": "<RichColor Color=\"0,1,0,1\">-Vip 5€</>\n\n"<RichColor Color=\"0,1,0,1\">-SuperVip 10€</>\n\n"<RichColor Color=\"0,1,0,1\">-MegaVip 15€</>\n\n"<RichColor Color=\"0,1,0,1\">-OmegaVip 20€</>\n\n\n\n<RichColor Color=\"0,1,0,1\">Pack</>",
           "imageurl": "https://imgur.com/9K5y53E.png"
         }
       }
