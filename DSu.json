@@ -3,7 +3,7 @@
     "settings": {
         "OpenButton": 1,
         "HideIcon": false,
-        "HideIconAfter": 60,
+        "HideIconAfter": 59,
         "IconURL": "https://imgur.com/jSkk32b.png",
         "DisableIconText": true,
         "IconPosition": 2,
