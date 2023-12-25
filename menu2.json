@@ -27,7 +27,7 @@
           "layout": 1,
           "buttontext":  "<RichColor Color=\"1,0,1,1\">Donator Shop</>",
           "title1": "<RichColor Color=\"1,0.65,0,1\">¡THANKS SO MUCH FOR HELP THE SERVER!</>",
-          "text1": "<TextStyle.Violet>Vip</>    <TextStyle.Yellow>5€</>",
+          "text1": "<TextStyle.Violet>Vip    </><TextStyle.Yellow>5€</>",
           "imageurl": "https://imgur.com/9K5y53E.png"
         }
       }
