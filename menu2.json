@@ -27,7 +27,7 @@
           "layout": 1,
           "buttontext":  "<RichColor Color=\"1,0,1,1\">Donator Shop</>",
           "title1": "<RichColor Color=\"1,0.65,0,1\">¡THANKS SO MUCH FOR HELP THE SERVER!</>",
-          "text1": "<TextStyle.Violet>VIP    </><TextStyle.Green>5€    </>\n\n<TextStyle.Violet>SUPERVIP    </><TextStyle.Green>10€    </>\n\n<TextStyle.Violet>MEGAVIP    </><TextStyle.Green>15€    </>\n\n<TextStyle.Violet>OMEGAVIP    </><TextStyle.Green>20€    </>",
+          "text1": "<TextStyle.Violet>VIP    </><TextStyle.Green>5€    </>\n\n<TextStyle.Violet>SUPERVIP    </><TextStyle.Green>10€    </>\n\n<TextStyle.Violet>MEGAVIP    </><TextStyle.Green>15€    </>\n\n<TextStyle.Violet>OMEGAVIP    </><TextStyle.Green>20€🥵    </>",
           "imageurl": "https://imgur.com/9K5y53E.png"
         }
       }
