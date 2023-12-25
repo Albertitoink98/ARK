@@ -25,7 +25,7 @@
       {
         "tab2": {
           "layout": 2,
-          "buttontext": "Donator Shop",
+          "buttontext": "<RichColor Color=\"0,1,0,0\">Donator Shop</>",
           "title1": "¡THANKS FOR DONATE!",
           "text1": "This text goes into the left box",
           "imageurl": "https://imgur.com/9K5y53E.png"
