@@ -27,7 +27,7 @@
           "layout": 1,
           "buttontext":  "<RichColor Color=\"1,0,1,1\">Donator Shop</>",
           "title1": "<RichColor Color=\"1,0.65,0,1\">¡THANKS SO MUCH FOR HELP THE SERVER!</>",
-          "text1": "<TextStyle.Violet>VIP    </><TextStyle.Green>5€    </>\n\n<TextStyle.Violet>SUPERVIP    </><TextStyle.Green>10€    </>\n\n<TextStyle.Violet>MEGAVIP    </><TextStyle.Green>15€    </>\n\n<TextStyle.Violet>OMEGAVIP    </><TextStyle.Green>20€    </>\n\n\n<TextStyle.Orange>-Vip: 1 Exclusive dino (All types of dinos dlcs,unexcept drakes,venasaur,etc),20kBullets,200Element</>\n\n<TextStyle.Orange>-SuperVip: 2 exclusive normal dinos dlcs or 1 drake,venasaur,etc. 40k bullets 300element</>\n\n<TextStyle.Orange>-MegaVip 4 exclusive normal dinos or 2 drakes,venasaur,etc. 60K bullets, 800element</>\n\n<TextStyle.Orange>-OmegaVip 6 exclusive normal dinos or 4drakes,venasaur,etc. 100kbullets 10Heavy turrets and 1200 element</>",
+          "text1": "<TextStyle.Violet>VIP    </><TextStyle.Green>5€    </>\n\n<TextStyle.Violet>SUPERVIP    </><TextStyle.Green>10€    </>\n\n<TextStyle.Violet>MEGAVIP    </><TextStyle.Green>15€    </>\n\n<TextStyle.Violet>OMEGAVIP    </><TextStyle.Green>20€    </>\n\n\n<TextStyle.Orange>-Vip: 1 Exclusive dino (All types of dinos dlcs,unexcept drakes,venasaur,etc),20kBullets,200Element</>\n\n<TextStyle.Orange>-SuperVip: 2 exclusive normal dinos dlcs or 1 drake,venasaur,etc. 40k bullets 300element</>\n\n<TextStyle.Orange>-MegaVip 4 exclusive normal dinos or 2 drakes,venasaur,etc. 60K bullets, 800element</>\n\n<TextStyle.Orange>-OmegaVip 6 exclusive normal dinos or 4drakes,venasaur,etc. 100kbullets 10Heavy turrets and 1200 element,1 NEUTER GUN AND 1 CRYOGUN</>",
           "imageurl": "https://imgur.com/a/UeuavvO.png"
         }
       }
@@ -36,7 +36,13 @@
       {
         "link1": {
           "text": "Discord Server",
-          "url": "https://discord.gg/6TqawXyc"
+          "url": "https://discord.gg/URKFNq2PU2"
+        }
+      },
+      {
+        "link2": {
+          "text": "Donate Button",
+          "url": "https://www.paypal.com/donate/?hosted_button_id=SXFC8E7USHHFG"
         }
       },
 
